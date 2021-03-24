@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrinalsharma_1" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalsharma_1?logo=twitter&style=for-the-badge" alt="mrinalsharma_1" /></a> </p>
 
-<a href="https://linkedin.com/in/mrinalsharma789">
-  <img align="left" alt="Mrinal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<p align="left"> <a href="https://linkedin.com/in/mrinalsharma789" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **React**
 
