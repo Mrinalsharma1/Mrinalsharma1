@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/mrinalsharma_1" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalsharma_1?logo=twitter&style=for-the-badge" alt="mrinalsharma_1" /></a> </p>
 
+<p align="left"> <a href="https://linkedin.com/in/mrinalsharma789" target="blank"><img src="https://img.shields.io/linkedin/follow/mrinalsharma789?logo=twitter&style=for-the-badge" alt="mrinalsharma789" /></a> </p>
+
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Android and Rest API**
