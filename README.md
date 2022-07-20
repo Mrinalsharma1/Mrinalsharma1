@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrinalsharma_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrinalsharma_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mrinalsharma789" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/mrinalsharma789" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mrinalsharma789" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/mrinalsharma1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15155915/mrinal-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15155915/mrinal-sharma" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mrinalk.11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/mrinalk.11" height="30" width="40" /></a>
 <a href="https://instagram.com/mrinal___sharma1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrinal___sharma1" height="30" width="40" /></a>
