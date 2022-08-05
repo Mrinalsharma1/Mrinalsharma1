@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrinalsharma_1" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalsharma_1?logo=twitter&style=for-the-badge" alt="mrinalsharma_1" /></a> </p>
 
-
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</a>
 
 
 
@@ -22,11 +24,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mrinalsharma1/mrinalSharma](https://github.com/Mrinalsharma1/mrinalSharma)
 
-- 💬 Ask me about **Digital Marketing**
+- 💬 Ask me about **Anything You Wants**
 
 - 📫 How to reach me **mrinalsharmatech@gmail.com**
 
-- ⚡ Fun fact **If you will Think More you will be lost**
+- ⚡ Fun fact **If you will Think More you will be lost😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
