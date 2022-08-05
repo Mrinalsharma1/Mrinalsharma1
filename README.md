@@ -49,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinalsharma1&" alt="mrinalsharma1" /></p>
 
-<img src="https://github.com/Mrinalsharma1/Mrinalsharma1/blob/main/footer.png" alt="git" width="100%" height="300"/>
+<img src="https://github.com/Mrinalsharma1/Mrinalsharma1/blob/main/footer.png" alt="git" width="100%" height="200"/>
