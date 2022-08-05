@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrinalSharma</h1>
-<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)" alt="git" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="git" width="400" height="200"/>
 <h3 align="center">A passionate Software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalsharma1&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalsharma1" /> </p>
