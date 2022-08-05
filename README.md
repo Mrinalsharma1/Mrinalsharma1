@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MrinalSharma</h1>
+<h1 align="center">Hello Coders!! 👋</h1>
 <img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="git" width="100%" height="300"/>
 <h3 align="center">A passionate Software engineer from India</h3>
 
