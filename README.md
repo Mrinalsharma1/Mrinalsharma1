@@ -14,11 +14,11 @@
 
 
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Java Full-Stack**
 
-- 🌱 I’m currently learning **Android and Rest API**
+- 🌱 I’m currently learning **graphql and Spring boot**
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **React and Java**
 
 - 🤝 I’m looking for help with **Web developer**
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **mrinalsharmatech@gmail.com**
 
-- ⚡ Fun fact **If you will Think More you will be lost😄**
+- ⚡ **i debug code so well, even bugs in nature are scared of me! 🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
